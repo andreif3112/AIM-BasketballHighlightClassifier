@@ -1,6 +1,6 @@
 # Basketball Highlight Classifier
 
-This is a computer vision project made by me and my group of three other members during my time as a mentee in UT Dallas' Artificial Intelligence Society mentorship program, AIM.
+My team and I completed this computer vision project as a part of UT Dallas' AI Society.
 
 ## Tech Stack
 
